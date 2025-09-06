@@ -1,1 +1,3 @@
 secret.txt
+build/
+!build/keep.txt
