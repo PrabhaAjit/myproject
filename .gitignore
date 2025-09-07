@@ -1,3 +1,7 @@
-secret.txt
-build/
+secret.txt 
+# Ignore everything in build folder
+build/*
+# But not the keep.txt and its parent folder
+!build/
 !build/keep.txt
+
