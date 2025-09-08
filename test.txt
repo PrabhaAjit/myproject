@@ -4,3 +4,4 @@ hello3
 hello4
 hello5 added in feature
 lerning git merge
+New line added for testing merge git
