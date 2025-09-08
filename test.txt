@@ -3,3 +3,4 @@ Hello1
 hello3
 hello4
 hello5 added in feature
+New line added for testing merge git
